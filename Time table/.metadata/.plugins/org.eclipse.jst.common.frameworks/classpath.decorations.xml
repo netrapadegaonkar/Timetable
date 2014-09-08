@@ -1,0 +1,7 @@
+<classpath>
+  <container id="TimeTable!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="E:/7th sem/Time table/TimeTable/WebContent/WEB-INF/lib/sqljdbc4.jar">
+      <attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY">C:/sqljdbc_4.0/enu/auth/x86</attribute>
+    </entry>
+  </container>
+</classpath>

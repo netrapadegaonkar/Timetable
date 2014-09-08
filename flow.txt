@@ -1,0 +1,12 @@
+public abstract class Faculty{
+	public abstract FacultyBean add_faculty();
+	public abstract FacultyBean update_faculty();
+	public abstract FacultyBean view_faculty();
+	}
+
+public abstract class Subject{
+	public abstract SubjectBean add_sub();
+	public abstract SubjectBean update_sub();
+	public abstract SubjectBean view_sub();
+		}
+
